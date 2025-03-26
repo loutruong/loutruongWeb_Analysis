@@ -1,7 +1,1 @@
-USE hwqdcsmn_loutruong;
-
-SELECT 
-    *
-FROM
-    hwqdcsmn_loutruong.loutruong_options
-;
+select * from hwqdcsmn_loutruong.loutruong_e_events;
