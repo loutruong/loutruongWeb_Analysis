@@ -1,6 +1,6 @@
 show databases;
 show tables;
-create database loutruong;
+create database loutruong_db;
 drop table if exists loutruong.usr_id;
 CREATE TABLE loutruong.usr_id (usr_id DOUBLE);
 INSERT INTO loutruong.usr_id (usr_id)
